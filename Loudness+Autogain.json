@@ -4,7 +4,7 @@
             "bypass": false,
             "input-gain": 0.0,
             "maximum-history": 15,
-            "output-gain": 0.0,
+            "output-gain": 1.0,
             "reference": "Geometric Mean (MSI)",
             "silence-threshold": -60.0,
             "target": -8.000000000000014
@@ -17,7 +17,7 @@
             "floor-active": true,
             "harmonics": 8.5,
             "input-gain": 0.0,
-            "output-gain": 0.0,
+            "output-gain": 1.0,
             "scope": 100.0
         },
         "blocklist": [],
@@ -26,7 +26,7 @@
             "bypass": false,
             "input-gain": -2.0,
             "ir-width": 100,
-            "kernel-path": "<PRESETS_DIRECTORY>/irs/Razor Surround ((48k Z-Edition)) 2.Stereo +20 bass.irs",
+            "kernel-path": "/home/reejit/.config/easyeffects/irs/Razor Surround ((48k Z-Edition)) 2.Stereo +20 bass.irs",
             "output-gain": 0.0
         },
         "crossfeed#0": {
